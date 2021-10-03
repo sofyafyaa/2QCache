@@ -49,7 +49,7 @@ void Cache_Comparison() {
 }
 
 int main() {
-    Cache_Comparison();
+    //Cache_Comparison();
     int hits = 0;
     int n;
     size_t m;
