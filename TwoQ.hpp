@@ -5,6 +5,9 @@
 #include <unordered_map>
 #include <list>
 
+/*---------------2Q Cache---------------
+http://www.vldb.org/conf/1994/P439.PDF*/
+
 template <typename V, typename K = int>
 struct TQ_cache {
 private:
